@@ -15,4 +15,6 @@ TBA
 
 ### Kuramoto–Sivashinsky equation
 
+https://github.com/PredictiveIntelligenceLab/CasualPINNs/blob/main/animations/KS.mp4
+
 ### Navier-Stokes equation
