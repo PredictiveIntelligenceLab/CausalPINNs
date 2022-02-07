@@ -13,6 +13,6 @@ TBA
 
 ## Examples
 
-## Kuramoto–Sivashinsky equation
+### Kuramoto–Sivashinsky equation
 
-## Navier-Stokes equation
+### Navier-Stokes equation
