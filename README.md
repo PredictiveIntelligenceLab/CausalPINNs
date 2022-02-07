@@ -1,4 +1,4 @@
-# CasualPINNs
+# Respecting causality is all you need for training physics-informed neural networks
 
 Code and data (available upon request) accompanying the manuscript titled "Respecting causality is all you need for training physics-informed neural networks", authored by Sifan Wang, Shyam Sankaran, and Paris Perdikaris.
 
