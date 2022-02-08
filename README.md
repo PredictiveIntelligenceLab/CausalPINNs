@@ -14,7 +14,12 @@ TBA
 ## Examples
 
 ### Kuramoto–Sivashinsky equation
-![](https://github.com/PredictiveIntelligenceLab/CasualPINNs/blob/f504e200ea14b77ab87b1373a1def5ef029d92e7/animations/KS.mp4)
+
+https://user-images.githubusercontent.com/3844367/152894380-3910ee92-6f9b-473b-9942-3d3919f2f22d.mp4
+
 
 ### Navier-Stokes equation
-https://github.com/PredictiveIntelligenceLab/CasualPINNs/blob/f504e200ea14b77ab87b1373a1def5ef029d92e7/animations/NS.mp4
+
+https://user-images.githubusercontent.com/3844367/152894393-6fbc5e1e-f2b0-419e-aa74-3ecb17d0e23e.mp4
+
+
