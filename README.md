@@ -10,7 +10,12 @@ While the popularity of physics-informed neural networks (PINNs) is steadily ris
 
 ## Citation
 
-TBA
+    @article{wang2022respecting,
+      title={Respecting causality is all you need for training physics-informed neural networks},
+      author={Wang, Sifan and Sankaran, Shyam and Perdikaris, Paris},
+      journal={arXiv preprint arXiv:2203.07404},
+      year={2022}
+    }
 
 
 ## Examples
