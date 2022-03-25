@@ -21,7 +21,7 @@ While the popularity of physics-informed neural networks (PINNs) is steadily ris
 ## Examples
 
 ### Allen–Cahn equation
-
+https://github.com/PredictiveIntelligenceLab/CausalPINNs/blob/56a585be6206b4b9798c029e6aeb965469f4afe8/animations/AC_animation_full.mp4
 
 ### Kuramoto–Sivashinsky equation
 
