@@ -22,17 +22,15 @@ While the popularity of physics-informed neural networks (PINNs) is steadily ris
 
 ### Allen–Cahn equation
 
-https://user-images.githubusercontent.com/70182613/160183938-90032dd7-73d3-47d8-9698-a49feef0e928.mp4
+https://user-images.githubusercontent.com/70182613/160253357-7936e254-ba60-4a9d-abd6-de761e3075c9.mp4
 
 ### Kuramoto–Sivashinsky equation
 
 https://user-images.githubusercontent.com/3844367/152894380-3910ee92-6f9b-473b-9942-3d3919f2f22d.mp4
 
-
 ### Navier-Stokes equation
 
 https://user-images.githubusercontent.com/3844367/152894393-6fbc5e1e-f2b0-419e-aa74-3ecb17d0e23e.mp4
-
 
 ## License
 
