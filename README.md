@@ -2,7 +2,7 @@
 
 ## ⚠️The proposed causal training algorithm cannot be used for commercial purposes (protected by a patent at the University of Pennsylvania).⚠️
 
-Code and data (available upon request) accompanying the manuscript titled "Respecting causality is all you need for training physics-informed neural networks", authored by Sifan Wang, Shyam Sankaran, and Paris Perdikaris.
+Code and data (available upon request) accompanying the manuscript titled "[Respecting causality is all you need for training physics-informed neural networks](https://arxiv.org/abs/2203.07404)", authored by Sifan Wang, Shyam Sankaran, and Paris Perdikaris.
 
 ## Abstract
 
