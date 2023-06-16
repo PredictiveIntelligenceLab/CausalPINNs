@@ -1,7 +1,7 @@
 import numpy as onp
 import jax.numpy as np
 from jax import random, grad, vmap, jit, jacfwd, jacrev
-from jax.experimental import optimizers
+from jax.example_libraries import optimizers
 from jax.experimental.ode import odeint
 from jax.experimental.jet import jet
 from jax.nn import relu

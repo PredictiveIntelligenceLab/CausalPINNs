@@ -1,25 +1,14 @@
 import numpy as onp
 import jax.numpy as np
 from jax import random, grad, vmap, jit, jacfwd, jacrev
-from jax.experimental import optimizers
-from jax.experimental.ode import odeint
+example_libraries
 from jax.nn import relu
-from jax.config import config
 from jax import lax
 from jax.flatten_util import ravel_pytree
 import itertools
 from functools import partial
 from torch.utils import data
 from tqdm import trange
-
-import scipy.io
-from scipy.interpolate import griddata
-from scipy.linalg import lstsq
-from scipy.optimize import lsq_linear
-from sklearn.linear_model import RidgeCV
-import matplotlib.pyplot as plt
-import scipy.optimize
-from scipy.optimize import least_squares
 
 
 # Define the neural net
